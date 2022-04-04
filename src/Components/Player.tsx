@@ -17,12 +17,12 @@ export const Player = (props: PlayerProps) => {
     <div>
       {props.isIn ? (
         <h2>
-          Welcome {props.fname} {props.lname}! You are playing todays match. You
+          Welcome {props.fname} {props.lname}! You are playing today's match. You
           position is {props.position}.
         </h2>
       ) : (
         <h2>
-          Welcome {props.fname} {props.lname}! You are not playing todays match.
+          Welcome {props.fname} {props.lname}! You are not playing today's match.
         </h2>
       )}
     </div>
