@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.App_Player {
+  border: 5px solid;
+  /* border-width: 5px; */
+  margin: 5px 450px;
+  /* max-width: 50%; */
+  /* margin: auto; */
+}
